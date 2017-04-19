@@ -62,11 +62,9 @@
           <file leaf-file-name="myscrpt.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/myscrpt.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#41#0" expanded="false" />
-                  </folding>
+                <state relative-caret-position="250">
+                  <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -87,9 +85,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/myscrpt.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/mystyles.css" />
+        <option value="$PROJECT_DIR$/myscrpt.js" />
       </list>
     </option>
   </component>
@@ -217,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492584453993</updated>
       <workItem from="1492584455199" duration="1135000" />
-      <workItem from="1492621823911" duration="1871000" />
+      <workItem from="1492621823911" duration="2116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3006000" />
+    <option name="totallyTimeSpent" value="3251000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -278,9 +276,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -310,11 +306,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myscrpt.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="250">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
