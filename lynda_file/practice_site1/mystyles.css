@@ -1,21 +1,19 @@
 body {
     background: gray;
     width: 90%;
-    padding: 2px;
+    padding: 10px;
+
 }
 
 
 .flex-container {
     display: -webkit-flex;
     display: flex;
-    width: 400px;
-    height: 250px;
+    flex-direction: column;
     background-color: lightgrey;
 }
 
 .flex-item {
     background-color: cornflowerblue;
-    width: 100px;
-    height: 100px;
-    margin: 10px;
+    padding: 5px;
 }
